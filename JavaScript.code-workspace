@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../JavaScript"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web Project"
+		},
+		{
+			"path": "../Web Project3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Project"
+	}
+}
